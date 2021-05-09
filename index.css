@@ -6,3 +6,11 @@ background-image: linear-gradient(to right, blue , purple);
  color: white;
  size: 250px;
 }
+
+.flag {
+text-decoration: none;
+}
+
+.flag_text {
+ color: white;
+}
